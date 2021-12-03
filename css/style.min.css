@@ -212,7 +212,8 @@ a {
     opacity: 1; }
 
 .navbar-toggler {
-  font-size: 3rem; }
+  font-size: 3rem; 
+  background-color: white !important;}
 
 .not-on-top #gtco-header-navbar {
   position: fixed;
@@ -466,7 +467,7 @@ footer {
     margin-top: 15px; }
   #gtco-header-navbar {
     padding-left: 15px;
-    background-color: #fff; } }
+    background-color: #C93517; } }
 
 @media (max-width: 767px) {
   .boxed-page {
